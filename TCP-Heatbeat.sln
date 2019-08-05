@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP-Heatbeat-Server", "TCP-Heatbeat-Server\TCP-Heatbeat-Server.csproj", "{D020E441-08C2-4756-8C9C-54F7B77A76EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TCP-Heatbeat-Client", "TCP-Heatbeat-Client\TCP-Heatbeat-Client.csproj", "{598934A2-8E49-438A-B024-AFBB52FAE21D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D020E441-08C2-4756-8C9C-54F7B77A76EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D020E441-08C2-4756-8C9C-54F7B77A76EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D020E441-08C2-4756-8C9C-54F7B77A76EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D020E441-08C2-4756-8C9C-54F7B77A76EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{598934A2-8E49-438A-B024-AFBB52FAE21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598934A2-8E49-438A-B024-AFBB52FAE21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598934A2-8E49-438A-B024-AFBB52FAE21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598934A2-8E49-438A-B024-AFBB52FAE21D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CBCBD8-9C0F-4CDD-9928-1CF49855701C}
+	EndGlobalSection
+EndGlobal
